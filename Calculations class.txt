@@ -1,0 +1,9 @@
+Calculations class
+***********************
+-num1: double
+-num2: double
+-result: double
+***********************
++ Calculations(double, double): void
++ Addition(): void
++ getResult(): double
